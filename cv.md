@@ -25,3 +25,10 @@ function plus() {
     result = num1+num2;
     document.getElementById('out').innerHTML = result;
 ```
+## Education
++ Academy of Public Administration (Russia, Saratov)
++ University of Applied Science (Germany, Ludwigsburg)
+
+# Languages
++ English (A2)
++ German (B1)
