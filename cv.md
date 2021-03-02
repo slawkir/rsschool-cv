@@ -3,6 +3,7 @@
 + Phonenumber: +7-937-265-21-31
 + Email: slawkir1984@gmail.com
 + Github: slawkir
++ https://vk.com/id4361264
 
 # About
 + Goal: learn JavaScript, to work as a developer 
